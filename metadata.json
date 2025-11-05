@@ -1,0 +1,5 @@
+{
+  "name": "Detector de Contenido IA",
+  "description": "Una aplicación web moderna para detectar si un texto o una imagen fueron generados por una inteligencia artificial, diseñada para el uso en entornos académicos como colegios y universidades.",
+  "requestFramePermissions": []
+}
